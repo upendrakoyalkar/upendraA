@@ -1,0 +1,11 @@
+# THE Webpage is about Mobile
+
+- There is a search engine
+- There is Top Rated Products will appear press the button of "To Rated Products" 
+
+-Taken the data has a mockdata kept in the MockData.js file
+
+-Add the features and added the hover to the card and heading
+
+-Heading will be a Hover
+If user go near heading1 it will change color 
